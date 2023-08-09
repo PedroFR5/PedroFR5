@@ -6,7 +6,7 @@
 <h1 align="center">Hi, I'm Pedro Ribeiro</h1>
 <h3 align="center">A developer passionate about technology.</h3>
 
-- 🔭 I’m currently working on [Game RPG](https://github.com/pedroribeiro025/RPG)
+- 🔭 I’m currently working on OutSystems projects
 
 - 👨‍💻 All of my projects are available at [Pedro Ribeiro](https://github.com/PedroFR5)
 
